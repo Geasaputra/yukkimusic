@@ -1,35 +1,30 @@
-{
-    "name": "Yukki Music Bot",
-    "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
-    "keywords": [
-    "python3",
-    "telegram",
-    "bot",
-    "Yukki",
-    "YukkiMusicBot",
-    "telegram-bot",
-    "pyrogram"
-    ],
-    "stack": "container",
-    "env": {
-      "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
-        "required": true
-      },
-      "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
-        "required": true
-      },
-      "AUTO_LEAVING_ASSISTANT": {
-        "description": "If you want your assistant to leave all chats automatically after some time.",
-        "value": "True",
-        "required": false
-      },
-      "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
-        "value": "",
-        "required": true
-      },
+# IMPORTANT
+      STRING_SESSION1:
+      API_ID: 
+      API_HASH: 
+      MONGO_DB_URI: 
+      LOG_GROUP_ID: 
+      BOT_TOKEN: # dapatkan dari @Botfather
+      DURATION_LIMIT:
+      MUSIC_BOT_NAME: # jangan gunakan font aneh aneh
+      OWNER_ID: 
+      LOG_SESSION:
+      ASSISTANT_PREFIX:
+      SUDO_USERS:
+      SUPPORT_CHANNEL: #isi dengan https://t.me/
+      SUPPORT_GROUP: #isi dengan https://t.me/
+      START_IMG_URL:
+# MULTI ASISSTANT
+      STRING_SESSION2
+      STRING_SESSION3
+      STRING_SESSION4
+      STRING_SESSION5
+# PENGATURAN BOT
+      AUTO_LEAVE_ASSISTANT_TIME
+      AUTO_LEAVING_ASSISTANT
+      PRIVATE_BOT_MODE
+      GITHUB_REPO
+      SPOTIFY_CLIENT_SECRET
+      SPOTIFY_CLIENT_ID
+# FOTO DAN THUMBNAIL
+      PING_IMG_URL
