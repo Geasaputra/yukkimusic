@@ -1,12 +1,13 @@
 # IMPORTANT
-      STRING_SESSION1:
+      STRING_SESSION:
       API_ID: 
       API_HASH: 
       MONGO_DB_URI: 
       LOG_GROUP_ID: 
       BOT_TOKEN: # dapatkan dari @Botfather
       MUSIC_BOT_NAME: # jangan gunakan font aneh aneh
-      OWNER_ID: 
+      OWNER_ID:
+      ASSISTAN_ID: 
       SUDO_USERS:
       SUPPORT_CHANNEL: #isi dengan https://t.me/
       SUPPORT_GROUP: #isi dengan https://t.me/
