@@ -7,5 +7,6 @@
       BOT_TOKEN: # dapatkan dari @Botfather
       MUSIC_BOT_NAME: # jangan gunakan font aneh aneh
       OWNER_ID:
+      DURATION_LIMIT:
 # PENGATURAN BOT
       AUTO_LEAVE_ASSISTANT:
